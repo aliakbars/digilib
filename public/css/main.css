@@ -1,0 +1,8 @@
+#overlay { 
+	display:none; 
+	position:absolute; 
+	background:#fff; 
+}
+#img-load { 
+	position:absolute; 
+}
